@@ -1,2 +1,1 @@
-debuging = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TobiHub-1/NIHONBUGV2/refs/heads/main/TOBIHUBMM2AUTOFARM.txt",true))()
